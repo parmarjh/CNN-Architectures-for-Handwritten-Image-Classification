@@ -2,6 +2,10 @@
 
 To classify images containing handwritten digits using multiple custom-built CNN architectures, which may or may not are inspired from standard Convnet architectures such as LeNet, AlexNet, VGGNet, ResNet etc. A comparison between performance of different architectures are done.
 
+<p align="center">
+    <img src="https://github.com/AdroitAnandAI/CNN-Architectures-for-Handwritten-Image-Classification/blob/master/lenet.jpg">
+</p>
+
 ## Purpose ##
 
 The purpose of this study is to **try 3 drastically different Convnet Architectures on MNIST image database**. The implementation is done in Keras.
