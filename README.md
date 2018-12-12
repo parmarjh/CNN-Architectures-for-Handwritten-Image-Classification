@@ -33,7 +33,7 @@ The purpose of this study is to **try 3 drastically different Convnet Architectu
 The 3-layered architecture is different but inspired from the LeNet, 1998 paper by Le Cunn.
 
 <p align="center">
-    <img src="https://github.com/AdroitAnandAI/CNN-Architectures-for-Handwritten-Image-Classification/blob/master/lenet.jpg">
+    <img src="https://github.com/AdroitAnandAI/CNN-Architectures-for-Handwritten-Image-Classification/blob/master/images/lenet.png">
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ The 3-layered architecture is different but inspired from the LeNet, 1998 paper 
 The 5-layered architecture is different but inspired from the VGGNet, 2014 paper by Andrew Zisserman.
 
 <p align="center">
-    <img src="https://github.com/AdroitAnandAI/CNN-Architectures-for-Handwritten-Image-Classification/blob/master/vgg.jpg">
+    <img src="https://github.com/AdroitAnandAI/CNN-Architectures-for-Handwritten-Image-Classification/blob/master/images/vgg.png">
 </p>
 
 <p align="center">
